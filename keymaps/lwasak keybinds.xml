@@ -1,4 +1,4 @@
-<keymap version="1" name="Visual Studio 2022 copy" parent="Visual Studio 2022">
+<keymap version="1" name="lwasak keybinds" parent="Visual Studio 2022">
   <action id="CommentByLineComment">
     <keyboard-shortcut first-keystroke="ctrl alt slash" />
     <keyboard-shortcut first-keystroke="ctrl alt divide" />
