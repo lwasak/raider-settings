@@ -1,0 +1,13 @@
+<keymap version="1" name="IntelliJ copy" parent="$default">
+  <action id="ChooseDebugConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f9" />
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
+  <action id="CopyElement" />
+  <action id="Graph.RouteEdges" />
+  <action id="Move" />
+  <action id="RebuildSolutionAction">
+    <keyboard-shortcut first-keystroke="f6" />
+  </action>
+  <action id="RiderProjectDiagramApplyCurrentLayout" />
+</keymap>
