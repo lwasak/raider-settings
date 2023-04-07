@@ -3,6 +3,7 @@
     <option name="enabledBlacklistToolWindowsId">
       <set>
         <option value="Dynamic Program Analysis" />
+        <option value="Unit Tests" />
       </set>
     </option>
     <option name="oldToolWindowStateMigrated" value="true" />
